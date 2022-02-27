@@ -6,9 +6,9 @@ picture: assets/images/profile.jpeg
 
 dark-theme: false
 
-resume: false
+resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://gcs.skhaz.dev/resume.pdf
 
 url: https://skhaz.dev
 
