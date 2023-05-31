@@ -32,7 +32,7 @@ projects: false
 
 about: false
 
-blog: false
+#blog: false
 
 read-time: false
 
