@@ -13,8 +13,8 @@ resume-url: https://gcs.skhaz.dev/resume.pdf
 blog: true
 blog-url: https://nullonerror.org/
 
-vcard: true
-vcard-url: https://gcs.skhaz.dev/vcard.vcf
+vcard: false
+vcard-url:
 
 url: https://rodrigo.delduca.org
 
