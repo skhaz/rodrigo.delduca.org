@@ -43,5 +43,12 @@
                 <a class="link" href="{{ site.blog-url }}">Blog</a>
             </li>
         {% endif %}
+
+        {% if site.vcard == true %}
+            <li class="item">
+                <a class="link" href="{{ site.vcard-url }}">vCard</a>
+            </li>
+        {% endif %}
+
     </ul>
 </nav>

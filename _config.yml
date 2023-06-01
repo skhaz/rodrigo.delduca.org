@@ -13,6 +13,9 @@ resume-url: https://gcs.skhaz.dev/resume.pdf
 blog: true
 blog-url: https://nullonerror.org/
 
+vcard: true
+vcard-url: https://gcs.skhaz.dev/vcard.vcf
+
 url: https://rodrigo.delduca.org
 
 permalink: /:title/
