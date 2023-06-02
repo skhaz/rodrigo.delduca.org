@@ -16,6 +16,9 @@ blog-url: https://nullonerror.org/
 vcard: false
 vcard-url:
 
+talks: true
+talks-url: https://speakerdeck.com/skhaz
+
 url: https://rodrigo.delduca.org
 
 permalink: /:title/
