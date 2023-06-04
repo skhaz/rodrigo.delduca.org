@@ -1,5 +1,5 @@
 ---
-title: "Streamopinion"
+title: "Streamopinion - Get Twitch comments summaries in real-time"
 layout: post
 date: 2023-06-03 00:00
 tag: go
