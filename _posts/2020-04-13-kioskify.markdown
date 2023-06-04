@@ -41,5 +41,5 @@ What has inside?
 
 Links:
 
--   Google Playstore [play.google.com](https://play.google.com/store/apps/details?id=dev.skhaz.kioskify).
 -   Site [https://kioskify.app/](https://kioskify.app/)
+-   Google Playstore [play.google.com](https://play.google.com/store/apps/details?id=dev.skhaz.kioskify).
