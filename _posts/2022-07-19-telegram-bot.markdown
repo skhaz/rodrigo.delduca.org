@@ -1,5 +1,5 @@
 ---
-title: "Delduca Telegram Bot"
+title: "Telegram Bot - Sarcastic and sometimes ironic personal assistant"
 layout: post
 date: 2021-09-04 00:00
 tag: python
