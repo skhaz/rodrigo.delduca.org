@@ -1,5 +1,5 @@
 ---
-title: "Scrooge McDuck - TODO"
+title: "Scrooge McDuck - Real-time dollar quoting device"
 layout: post
 date: 2018-05-29 00:00
 tag: arduino
