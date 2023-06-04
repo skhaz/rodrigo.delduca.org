@@ -28,6 +28,7 @@ What has inside?
 -   Docker
 -   JavaScript
 -   Google Cloud Run
+-   Google Cloud PubSub
 -   Google Cloud Firestore
 -   Google Cloud Storage
 -   Google Firebase Functions

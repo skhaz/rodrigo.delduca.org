@@ -32,10 +32,10 @@ What has inside?
 -   Next.js
 -   TypeScript
 -   Express
+-   Google Transcoder API
 -   Google Firebase Functions
 -   Google Cloud Firestore
 -   Google Cloud Storage
--   Google Transcoder API
 -   Google Cloud PubSub
 
 ---
