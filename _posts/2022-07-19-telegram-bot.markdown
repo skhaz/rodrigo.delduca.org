@@ -1,7 +1,7 @@
 ---
 title: "Telegram Bot - Sarcastic and sometimes ironic personal assistant"
 layout: post
-date: 2021-09-04 00:00
+date: 2022-07-19 00:00
 tag: python
 # image:
 headerImage: true
