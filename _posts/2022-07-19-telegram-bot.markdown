@@ -29,5 +29,5 @@ What has inside?
 
 Links:
 
--   Site [https://t.me/delduca_bot](https://t.me/delduca_bot)
+-   Site [https://t.me/delduca_bot](https://t.me/delduca_bot).
 -   Source code [https://github.com/skhaz/telegram-delduca-bot](https://github.com/skhaz/telegram-delduca-bot).

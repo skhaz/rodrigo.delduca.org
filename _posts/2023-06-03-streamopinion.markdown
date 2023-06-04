@@ -25,5 +25,5 @@ What has inside?
 
 Links:
 
--   Site [https://streamopinion.fun/](https://streamopinion.fun/)
+-   Site [https://streamopinion.fun/](https://streamopinion.fun/).
 -   Source code [https://github.com/skhaz/streamopinion](https://github.com/skhaz/streamopinion).

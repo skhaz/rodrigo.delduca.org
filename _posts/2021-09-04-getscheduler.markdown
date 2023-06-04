@@ -35,5 +35,5 @@ What has inside?
 
 Links:
 
--   Site [https://getscheduler.app/](https://getscheduler.app/)
+-   Site [https://getscheduler.app/](https://getscheduler.app/).
 -   Source code [https://github.com/skhaz/getscheduler](https://github.com/skhaz/getscheduler).

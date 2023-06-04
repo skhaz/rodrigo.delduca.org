@@ -37,5 +37,5 @@ What has inside?
 
 Links:
 
--   Site [https://steamosaic.com/](https://steamosaic.com/)
+-   Site [https://steamosaic.com/](https://steamosaic.com/).
 -   Source code [https://github.com/skhaz/steamosaic](https://github.com/skhaz/steamosaic).
