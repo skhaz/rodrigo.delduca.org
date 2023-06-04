@@ -15,7 +15,7 @@ externalLink: false
 
 ![Screenshot](/assets/steamosaic.png)
 
-This project allows users to generate a mosaic of your [Steam](https://store.steampowered.com/) account, sorted by most played games. [Demo](https://steamosaic.com/#skhaz).
+This project allows users to generate a mosaic of their [Steam](https://store.steampowered.com/) library, sorted by most played games. [Demo](https://steamosaic.com/#skhaz).
 
 ---
 
