@@ -25,6 +25,7 @@ What has inside?
 -   Pillow
 -   NumPy
 -   Flask
+-   Docker
 -   JavaScript
 -   Google Cloud Run
 -   Google Cloud Firestore
