@@ -18,8 +18,10 @@ externalLink: false
 What has inside?
 
 -   Go
+-   Docker
 -   OpenAI GPT Turbo
 -   Twitch's Internet Relay Chat
+-   Google Cloud Run
 
 ---
 
