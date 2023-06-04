@@ -17,8 +17,6 @@ This project aims to be an easy way to turn an Android device into a kiosk video
 
 It is possible to manage the playlists playing on the device remotely through the web interface, accessible on [kioskify.app/dashboard](https://kioskify.app/dashboard).
 
-[View it on Google Playstore](https://play.google.com/store/apps/details?id=dev.skhaz.kioskify).
-
 ---
 
 What has inside?
@@ -43,4 +41,5 @@ What has inside?
 
 Links:
 
+-   Google Playstore [play.google.com](https://play.google.com/store/apps/details?id=dev.skhaz.kioskify).
 -   Site [https://kioskify.app/](https://kioskify.app/)
