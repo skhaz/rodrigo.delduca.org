@@ -2,7 +2,7 @@
 title: "Streamopinion"
 layout: post
 date: 2023-06-03 00:00
-tag: python
+tag: go
 # image:
 headerImage: true
 projects: true

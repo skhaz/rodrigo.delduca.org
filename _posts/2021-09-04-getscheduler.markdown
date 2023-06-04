@@ -2,7 +2,7 @@
 title: "Getscheduler - Easy and realiable online free cron jobs"
 layout: post
 date: 2021-09-04 00:00
-tag: python
+tag: typescript
 # image:
 headerImage: true
 projects: true
