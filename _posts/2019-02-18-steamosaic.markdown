@@ -9,7 +9,7 @@ projects: true
 hidden: true
 description: "This project allows users to generate a mosaic of your Steam account, sorted by most played games."
 category: project
-author: johndoe
+author: skhaz
 externalLink: false
 ---
 
