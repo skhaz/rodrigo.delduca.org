@@ -37,6 +37,7 @@ What has inside?
 -   Google Cloud Firestore
 -   Google Cloud Storage
 -   Google Cloud PubSub
+-   BunnyCDN
 
 ---
 
