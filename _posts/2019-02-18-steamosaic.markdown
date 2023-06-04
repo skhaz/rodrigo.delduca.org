@@ -3,10 +3,10 @@ title: "Steamosaic - Generate a mosaic of your steam account"
 layout: post
 date: 2019-02-18 00:00
 tag: python
-#image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
+# image:
 headerImage: true
 projects: true
-hidden: true # don't count this post in blog pagination
+hidden: true
 description: "This project allows users to generate a mosaic of your Steam account, sorted by most played games."
 category: project
 author: johndoe
