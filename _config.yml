@@ -1,5 +1,6 @@
 name: Rodrigo Delduca
 bio: Lead Software Engineer
+repository: skhaz/rodrigodelduca.com.br
 
 external-image: false
 picture: assets/images/avatar.png
@@ -19,7 +20,7 @@ vcard-url:
 talks: true
 talks-url: https://speakerdeck.com/skhaz
 
-url: https://rodrigodelduca.com.br 
+url: https://rodrigodelduca.com.br
 
 permalink: /:title/
 
