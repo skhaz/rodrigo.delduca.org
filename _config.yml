@@ -39,7 +39,7 @@ pagination:
 
 projects: true
 
-about: false
+about: true
 
 #blog: false
 
