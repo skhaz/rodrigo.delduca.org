@@ -1,5 +1,5 @@
 ---
-title: "Grammateus - Get Twitch comments summaries in real-time"
+title: "Grammateus - Get Twitch comments summaries in real-time by OpenAI"
 layout: post
 date: 2023-06-03 00:00
 tag: go
