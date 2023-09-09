@@ -17,6 +17,10 @@ externalLink: false
 
 ---
 
+What it do?
+
+I wanted a simple CRON job that would make an HTTP call to a specific endpoint at regular intervals. Since I couldn't find a solution that suited my needs, I built my own. It was a really fun project with plenty of corner cases to handle.
+
 What has inside?
 
 -   Next.js
