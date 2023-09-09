@@ -13,13 +13,11 @@ author: skhaz
 externalLink: false
 ---
 
----
-
-What it do?
+### What it do?
 
 Watching a livestream on Twitch can be enjoyable, but sometimes the chat is unruly, making it hard to understand what people are saying. This service periodically summarizes what the chat is talking about.
 
-What has inside?
+### What has inside?
 
 -   Go
 -   Docker

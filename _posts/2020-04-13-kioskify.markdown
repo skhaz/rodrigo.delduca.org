@@ -13,13 +13,13 @@ author: skhaz
 externalLink: false
 ---
 
+### What it do?
+
 This project aims to be an easy way to turn an Android device into a kiosk video player; it transcodes and optimizes the videos on the cloud and distributes them using a global CDN.
 
 It is possible to manage the playlists playing on the device remotely through the web interface, accessible on [kioskify.app/dashboard](https://kioskify.app/dashboard).
 
----
-
-What has inside?
+### What has inside?
 
 -   Java
 -   ExoPlayer
