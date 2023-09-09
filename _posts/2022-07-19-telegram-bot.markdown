@@ -13,13 +13,11 @@ author: skhaz
 externalLink: false
 ---
 
----
-
-What it do?
+### What it do?
 
 I created this bot to bring some fun to the groups I'm a part of, but it does some pretty cool things too. For example, using computer vision, it can make a joke about a newly joined participant's profile picture. It's also able to respond to messages with sarcasm.
 
-What has inside?
+### What has inside?
 
 -   Python
 -   Flask
@@ -29,9 +27,7 @@ What has inside?
 -   Google Cloud Run
 -   Google Cloud Vision
 
----
-
-Links:
+### Links:
 
 -   Site [https://t.me/delduca_bot](https://t.me/delduca_bot).
 -   Source code [https://github.com/skhaz/telegram-delduca-bot](https://github.com/skhaz/telegram-delduca-bot).

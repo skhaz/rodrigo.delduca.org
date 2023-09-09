@@ -37,9 +37,7 @@ It is possible to manage the playlists playing on the device remotely through th
 -   Google Cloud PubSub
 -   Google Firebase Functions
 
----
-
-Links:
+### Links:
 
 -   Site [https://kioskify.app/](https://kioskify.app/).
 -   Google Playstore [play.google.com](https://play.google.com/store/apps/details?id=dev.skhaz.kioskify).

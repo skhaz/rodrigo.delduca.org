@@ -15,16 +15,16 @@ externalLink: false
 
 ![Screenshot](/assets/scrooge-mcduck.jpg)
 
----
+### What it do?
 
-What has inside?
+This project was an overkill idea for a simple problem that I did purely for fun and to experiment with new things. Essentially, what it did was have a task scheduler that scheduled a process to run every hour. This process would collect the exchange rate of the Dollar compared to the Real, and then save it to Firebase. On the other side, I had a microcontroller with firmware written in C++ listening in real-time for the exchange rate. When it changed, it updated the display, and I would have an idea if it was the right time to convert my salary from dollars to reais.
+
+### What has inside?
 
 -   C++
 -   Espressif ESP32
 -   Google Firebase Functions
 
----
-
-Links:
+### Links:
 
 -   Source code [https://github.com/skhaz/scrooge-mcduck-iot](https://github.com/skhaz/scrooge-mcduck-iot).

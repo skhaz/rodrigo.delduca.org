@@ -15,9 +15,11 @@ externalLink: false
 
 ![Logo](/assets/wintermoon.jpg)
 
----
+### What it do?
 
-What has inside?
+My first major project, which I'm still proud of today, was when I was a teenager. My dream back then was to create a game, but at the time, you needed an engine for that. So, I built one. I didn't end up making a full game with it, just some demos, of course. With this engine, you could script a game using the Lua language, it supported loading assets directly from compressed files on-the-fly, joystick support, and other features.
+
+### What has inside?
 
 -   C++
 -   Lua
@@ -25,8 +27,6 @@ What has inside?
 -   OpenGL
 -   PhysicsFS
 
----
-
-Links:
+### Links:
 
 -   Source code [https://github.com/skhaz/wintermoon](https://github.com/skhaz/wintermoon).

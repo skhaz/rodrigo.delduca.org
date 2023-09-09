@@ -25,9 +25,7 @@ Watching a livestream on Twitch can be enjoyable, but sometimes the chat is unru
 -   Twitch's Internet Relay Chat
 -   Google Cloud Run
 
----
-
-Links:
+### Links:
 
 -   Site [https://grammateus.xyz/](https://grammateus.xyz/).
 -   Source code [https://github.com/skhaz/grammateus](https://github.com/skhaz/grammateus).

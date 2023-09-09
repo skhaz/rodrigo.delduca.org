@@ -13,13 +13,11 @@ author: skhaz
 externalLink: false
 ---
 
----
-
-What it do?
+### What it do?
 
 Every time a user joins a Telegram group, a captcha is presented. This bot was divided into two services, the first in Python that handles Telegram requests via webhook, and the second in Go that generates images on-the-fly.
 
-What has inside?
+### What has inside?
 
 -   Go
 -   Python
@@ -27,9 +25,7 @@ What has inside?
 -   AWS Lambda
 -   Redis
 
----
-
-Links:
+### Links:
 
 -   Site [https://t.me/sheriff_labrador_captcha_bot](https://t.me/sheriff_labrador_captcha_bot).
 -   Source code [https://github.com/skhaz/sheriff-labrador-captcha-bot](https://github.com/skhaz/sheriff-labrador-captcha-bot).

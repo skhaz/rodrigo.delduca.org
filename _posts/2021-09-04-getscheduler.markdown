@@ -17,11 +17,11 @@ externalLink: false
 
 ---
 
-What it do?
+### What it do?
 
 I wanted a simple CRON job that would make an HTTP call to a specific endpoint at regular intervals. Since I couldn't find a solution that suited my needs, I built my own. It was a really fun project with plenty of corner cases to handle.
 
-What has inside?
+### What has inside?
 
 -   Next.js
 -   React
@@ -35,9 +35,7 @@ What has inside?
 -   Google Cloud PubSub
 -   Google Cloud Scheduler
 
----
-
-Links:
+### Links:
 
 -   Site [https://getscheduler.app/](https://getscheduler.app/).
 -   Source code [https://github.com/skhaz/getscheduler](https://github.com/skhaz/getscheduler).

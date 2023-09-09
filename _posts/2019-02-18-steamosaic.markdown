@@ -15,11 +15,11 @@ externalLink: false
 
 ![Screenshot](/assets/steamosaic.png)
 
+### What it do?
+
 This project allows users to generate a mosaic of their [Steam](https://store.steampowered.com/) library, sorted by most played games. [Demo](https://steamosaic.com/#skhaz).
 
----
-
-What has inside?
+### What has inside?
 
 -   Python
 -   Pillow
@@ -33,9 +33,7 @@ What has inside?
 -   Google Cloud Storage
 -   Google Firebase Functions
 
----
-
-Links:
+### Links:
 
 -   Site [https://steamosaic.com/](https://steamosaic.com/).
 -   Source code [https://github.com/skhaz/steamosaic](https://github.com/skhaz/steamosaic).
