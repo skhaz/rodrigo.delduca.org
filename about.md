@@ -11,7 +11,7 @@ After that, years passed, and coming from a poor family, it took a while for me 
 
 I participated in groups and made numerous friends in the game development field. However, as I got older, my parents started pressuring me to get a job. So, I distributed my resume in the city. I hoped to get a job as a hardware maintenance technician. But someone at a company saw my 2D engine, called Wintermoon, on my resume and invited me for an interview. That's where it all began. During the interview, I presented the code and showed a demo, and I was hired on the spot. This story was just the beginning of my journey.
 
-Past
+### Past
 
 I started my journey as an ERP systems developer. However, that wasn't enough for me. I moved to an indoor media company, and they had a media distribution problem. The server was located in-house with a 1Mbps connection, causing hours of delay in adding new files. I suggested using the torrent protocol since CDNs were extremely expensive and rare at the time. It was a great success, and videos were available within minutes.
 At that time, I always had the desire to return to game development. I managed to get an opportunity at a company in Curitiba. I embarked on an incredible journey, relocating to a new city and state. I was entirely responsible for developing a 2D point & click game from scratch.
@@ -36,6 +36,8 @@ Due to my expertise in serverless and cloud technologies, a cryptocurrency finte
 
 So, I moved on to HostPapa, a Canadian company specializing in web hosting solutions. I essentially worked on WooCart, a platform for managing WordPress & WooCommerce websites. There, I was responsible for maintaining the code and managing a Kubernetes cluster with hundreds of active clients and thousands of accesses.
 
-Now
+### Now
 
 Nowadays, I work at Fueled as a Lead Engineer. This company is extremely renowned for its excellence in app development. At Fueled, I've had the opportunity to work on their two biggest clients to date, Victoria's Secrets and NationsBenefits. I served as a full-stack developer on one project and as a backend developer on the other. At times, I also assisted with the management of a Kubernetes cluster.
+
+Thank you for reading my story. I hope you enjoyed it. If you have any questions, please feel free to contact me.
