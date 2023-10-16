@@ -13,7 +13,7 @@ author: skhaz
 externalLink: false
 ---
 
-![Logo](/assets/wintermoon.jpg)
+![Logo](/assets/images/wintermoon.jpg)
 
 ### What it do?
 

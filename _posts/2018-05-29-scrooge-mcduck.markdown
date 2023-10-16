@@ -13,7 +13,7 @@ author: skhaz
 externalLink: false
 ---
 
-![Screenshot](/assets/scrooge-mcduck.jpg)
+![Screenshot](/assets/images/scrooge-mcduck.jpg)
 
 ### What it do?
 

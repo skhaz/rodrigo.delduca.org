@@ -13,7 +13,7 @@ author: skhaz
 externalLink: false
 ---
 
-![Screenshot](/assets/steamosaic.png)
+![Screenshot](/assets/images/steamosaic.png)
 
 ### What it do?
 

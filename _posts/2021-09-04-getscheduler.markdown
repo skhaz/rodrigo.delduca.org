@@ -13,7 +13,7 @@ author: skhaz
 externalLink: false
 ---
 
-![Screenshot](/assets/getscheduler.png)
+![Screenshot](/assets/images/getscheduler.png)
 
 ---
 
