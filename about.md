@@ -5,7 +5,7 @@ layout: page
 
 ### Beginning
 
-![Me riding horse](/assets/images/me/horse.jpg)
+![Me riding horse](/assets/images/horse.jpg)
 
 My first contact with programming and computers was when I was 8 years old. At the time, the school I attended received some donated computers. Because I was, let’s say, a different kind of kid, drawing electronic circuits in my notebook instead of learning my native language, I was chosen to take a course in the [LOGO](<https://en.wikipedia.org/wiki/Logo_(programming_language)>) language. This language was created to teach programming to children. At in time, I also learned [BASIC](https://en.wikipedia.org/wiki/BASIC).
 
@@ -13,7 +13,7 @@ After that, years passed, and coming from a poor family, it took a while for me 
 
 I participated in groups and made numerous friends in the game development field. However, as I got older, my parents started pressuring me to get a job. So, I distributed my resume in the city. I hoped to get a job as a hardware maintenance technician. But someone at a company saw my 2D engine, called [Wintermoon](https://github.com/skhaz/wintermoon), on my resume and invited me for an interview. That's where it all began. During the interview, I presented the code and showed a demo, and I was hired on the spot. This story was just the beginning of my journey.
 
-![Me using Slackware Linux](/assets/images/me/slackware.jpg)
+![Me using Slackware Linux](/assets/images/slackware.jpg)
 
 ### Past
 
