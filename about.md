@@ -33,7 +33,7 @@ After that, I joined a military combat software company where I faced various ch
 Next, I worked in educational technology in Brazil. The use of mobile phones or tablets was not common, so we were pioneers in incorporating them into education. I was tasked with discovering and utilizing Adobe technologies to create a digital book.
 While still at the digital books company, I was responsible for porting the [Aurélio](https://en.wikipedia.org/wiki/Aurélio_Dictionary) dictionary to iOS and Android. Aurelio is the most important dictionary in the Portuguese language. And so I did, using [Adobe Air](https://en.wikipedia.org/wiki/Adobe_AIR).
 
-Then, I received an offer to move to São Paulo to work in a [gambling industry](http://www.ortizgaming.com/en/) using modern C++ and [boost](https://www.boost.org). I accepted, and it was an excellent opportunity to meet two unforgettable and exceptional professionals, [Wander](http://walac.github.io) and Mauro.
+Then, I received an offer to move to São Paulo to work in a [gambling industry](http://www.ortizgaming.com/en/) using modern C++ and [boost](https://www.boost.org). I accepted, and it was an excellent opportunity to meet two unforgettable and exceptional professionals, [Wander](https://walac.github.io) and Mauro.
 At this casino company, I developed a protocol for use in menus, entirely dynamic and flexible between modern C++ and Lua.
 
 ![At beach](/assets/images/beach.jpg)
