@@ -24,6 +24,8 @@ I participated in groups and made numerous friends in the game development field
 I started my journey as an ERP systems developer. However, that wasn't enough for me. I moved to an indoor media company, and they had a media distribution problem. The server was located in-house with a 1Mbps connection, causing hours of delay in adding new files. I suggested using the [BitTorrent](https://en.wikipedia.org/wiki/BitTorrent) protocol since [CDNs (Content delivery network)](https://en.wikipedia.org/wiki/Content_delivery_network) were extremely expensive and rare at the time. It was a great success, and videos were available within minutes.
 At that time, I always had the desire to return to game development. I managed to get an opportunity at a company in Curitiba. I embarked on an incredible journey, relocating to a new city and state. I was entirely responsible for developing a [2D point & click game from scratch](https://www.bigfishgames.com/blog/walkthroughs/blood-oath.html).
 
+![Mococa](/assets/images/horse.jpg)
+
 After that, I joined a military combat software company where I faced various challenges, such as integrating vest hardware with software and synchronizing six screens of the battle simulator with the platform. This platform included a gun that emitted an infrared beam, captured by one of the six cameras, and the projection was calculated.
 
 Next, I worked in educational technology in Brazil. The use of mobile phones or tablets was not common, so we were pioneers in incorporating them into education. I was tasked with discovering and utilizing Adobe technologies to create a digital book.
