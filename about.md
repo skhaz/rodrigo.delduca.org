@@ -5,7 +5,7 @@ layout: page
 
 ### Beginning
 
-![Me riding horse](/assets/images/horse.jpg)
+![I riding a horse](/assets/images/horse.jpg)
 
 I learned electronics long before I knew how to read, through my father's books and magazines on the subject. I would spend entire afternoons without really understanding what the diagrams meant.
 
@@ -17,14 +17,14 @@ After that, years passed, and coming from a poor family, it took a while for me 
 
 I participated in groups and made numerous friends in the game development field. However, as I got older, my parents started pressuring me to get a job. So, I distributed my resume in the city. I hoped to get a job as a hardware maintenance technician. But someone at a company saw my 2D engine, called [Wintermoon](https://github.com/skhaz/wintermoon), on my resume and invited me for an interview. That's where it all began. During the interview, I presented the code and showed a demo, and I was hired on the spot. This story was just the beginning of my journey.
 
-![Me using Slackware Linux](/assets/images/slackware.jpg)
+![I using Slackware Linux](/assets/images/slackware.jpg)
 
 ### Past
 
 I started my journey as an ERP systems developer. However, that wasn't enough for me. I moved to an indoor media company, and they had a media distribution problem. The server was located in-house with a 1Mbps connection, causing hours of delay in adding new files. I suggested using the [BitTorrent](https://en.wikipedia.org/wiki/BitTorrent) protocol since [CDNs (Content delivery network)](https://en.wikipedia.org/wiki/Content_delivery_network) were extremely expensive and rare at the time. It was a great success, and videos were available within minutes.
 At that time, I always had the desire to return to game development. I managed to get an opportunity at a company in Curitiba. I embarked on an incredible journey, relocating to a new city and state. I was entirely responsible for developing a [2D point & click game from scratch](https://www.bigfishgames.com/blog/walkthroughs/blood-oath.html).
 
-![Mococa](/assets/images/mococa.jpg)
+![I programming in Mococa](/assets/images/mococa.jpg)
 
 After that, I joined a military combat software company where I faced various challenges, such as integrating vest hardware with software and synchronizing six screens of the battle simulator with the platform. This platform included a gun that emitted an infrared beam, captured by one of the six cameras, and the projection was calculated.
 
