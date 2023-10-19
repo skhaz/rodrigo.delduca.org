@@ -34,6 +34,8 @@ While still at the digital books company, I was responsible for porting the [Aur
 Then, I received an offer to move to São Paulo to work in a [gambling industry](http://www.ortizgaming.com/en/) using modern C++ and [boost](https://www.boost.org). I accepted, and it was an excellent opportunity to meet two unforgettable and exceptional professionals, Wander and Mauro.
 At this casino company, I developed a protocol for use in menus, entirely dynamic and flexible between modern C++ and Lua.
 
+![At beach](/assets/images/beach.jpg)
+
 So I made a transition to mobile, working at three different companies, with both iOS and Android. The first one was a startup that utilized the [Sem Parar](https://www.semparar.com.br/) payment system. Unfortunately, the startup no longer exists.
 
 The second was [QuintoAndar](https://www.quintoandar.com.br), where I became the first mobile engineer in the company. I was responsible for creating the first three apps, both for iOS and Android.
