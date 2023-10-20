@@ -48,10 +48,10 @@ Then, a unique opportunity arose to return to backend development and work with 
 
 Due to my expertise in serverless and cloud technologies, a cryptocurrency fintech called [Blinktrade](https://blinktrade.com) expressed interest and made me an offer to develop a new cryptocurrency trading platform. In addition to working on this new project, Naka, I also worked on the bitcoin exchange. Thanks to my high performance and proficiency in various areas, I was promoted to Chief Technology Officer. Unfortunately, due to a downturn in the cryptocurrency market, investors requested their money back.
 
-So, I moved on to [HostPapa](https://www.hostpapa.com), a Canadian company specializing in web hosting solutions. I essentially worked on WooCart, a platform for managing WordPress & [WooCommerce](https://woocommerce.com) websites. There, I was responsible for maintaining the code and managing a Kubernetes cluster with hundreds of active clients and thousands of accesses.
+I moved on to [HostPapa](https://www.hostpapa.com), a Canadian company specializing in web hosting solutions. I essentially worked on WooCart, a platform for managing WordPress & [WooCommerce](https://woocommerce.com) websites. There, I was responsible for maintaining the code and managing a Kubernetes cluster with hundreds of active clients and thousands of accesses.
 
 ### Now
 
-Nowadays, I work at [Fueled](https://fueled.com/) as a Lead Engineer. This company is extremely renowned for its excellence in app development. At Fueled, I've had the opportunity to work on their two biggest clients to date, [Victoria's Secrets](https://www.victoriassecretandco.com/) Community and [NationsBenefits](https://www.nationsbenefits.com). I served as a full-stack developer on one project and as a backend developer on the other. At times, I also assisted with the management of a Kubernetes cluster.
+Nowadays, I work at [Fueled](https://fueled.com/) as a Lead Engineer. This company is extremely renowned for its excellence in app development. At Fueled, I've had the opportunity to work on their two biggest clients to date, [Victoria's Secrets](https://www.victoriassecretandco.com/) Community and [NationsBenefits](https://www.nationsbenefits.com). I have been serving as a backend engineer on one and as a full-stack developer on the other. At times, I also assisted with the management of a Kubernetes cluster.
 
 Thank you for reading my story. I hope you enjoyed it. If you have any questions, please feel free to contact me.
