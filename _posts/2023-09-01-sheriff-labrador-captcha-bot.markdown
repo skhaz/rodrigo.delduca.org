@@ -23,7 +23,8 @@ Every time a user joins a Telegram group, a captcha is presented. This bot was d
 -   Python
 -   Serverless Framework
 -   AWS Lambda
--   Redis
+-   Amazon DynamoDB
+-   DynamoDB Streams
 
 ### Links:
 
