@@ -52,6 +52,6 @@ I moved on to [HostPapa](https://www.hostpapa.com), a Canadian company specializ
 
 ### Now
 
-Nowadays, I work at [Fueled](https://fueled.com/) as a Lead Engineer. This company is extremely renowned for its excellence in app development. At Fueled, I've had the opportunity to work on their two biggest clients to date, [Victoria's Secrets](https://www.victoriassecretandco.com/) Community and [NationsBenefits](https://www.nationsbenefits.com). I have been serving as a backend engineer on one and as a full-stack developer on the other. At times, I also assisted with the management of a Kubernetes cluster.
+Nowadays, I work at [Fueled](https://fueled.com/) as a Lead Engineer. This company is extremely renowned for its excellence in app development. At Fueled, I've had the opportunity to work on their two biggest clients to date. I have been serving as a backend engineer on one and as a full-stack developer on the other. At times, I also assisted with the management of a Kubernetes cluster.
 
 Thank you for reading my story. I hope you enjoyed it. If you have any questions, please feel free to contact me.
