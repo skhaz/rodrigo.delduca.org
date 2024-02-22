@@ -48,8 +48,10 @@ Due to my expertise in serverless and cloud technologies, a cryptocurrency finte
 
 I moved on to [HostPapa](https://www.hostpapa.com), a Canadian company specializing in web hosting solutions. I essentially worked on WooCart, a platform for managing WordPress & [WooCommerce](https://woocommerce.com) websites. There, I was responsible for maintaining the code and managing a Kubernetes cluster with hundreds of active clients and thousands of accesses.
 
+Then I moved to [Fueled](https://fueled.com/) as a Lead Engineer. This company is extremely renowned for its excellence in app development. At Fueled, I've had the opportunity to work on their two biggest clients to date, Victoria's Secret and NationsBenefits. I have been serving as a backend engineer on one and as a full-stack developer on the other. At times, I also assisted with the management of a Kubernetes cluster.
+
 ### Now
 
-Nowadays, I work at [Fueled](https://fueled.com/) as a Lead Engineer. This company is extremely renowned for its excellence in app development. At Fueled, I've had the opportunity to work on their two biggest clients to date. I have been serving as a backend engineer on one and as a full-stack developer on the other. At times, I also assisted with the management of a Kubernetes cluster.
+![Rodrigo Delduca in the Matrix](/assets/images/matrix.png)
 
 Thank you for reading my story. I hope you enjoyed it. If you have any questions, please feel free to contact me.
