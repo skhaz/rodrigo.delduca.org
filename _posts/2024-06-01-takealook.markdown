@@ -26,7 +26,7 @@ Take A Look is a service that takes real 4K high-definition screenshots and shor
 -   Hetzner (arm64)
 -   Backblaze for storage
 -   BunnyCDN for content delivery
--   Cloudflare tunnel
+-   Cloudflare tunnel for secure & private hosting
 
 ### Links:
 
