@@ -1,5 +1,5 @@
 name: Rodrigo Delduca
-bio: Lead Engineer, Senior Software Engineer
+bio: Principal Software Engineer
 repository: skhaz/rodrigodelduca.com.br
 
 external-image: false
@@ -31,11 +31,11 @@ email: rodrigo@delduca.org
 width: normal
 
 pagination:
-    enabled: false
-    sort_reverse: true
-    title: ":title"
-    per_page: 5
-    permalink: "/:num/"
+  enabled: false
+  sort_reverse: true
+  title: ":title"
+  per_page: 5
+  permalink: "/:num/"
 
 projects: true
 
@@ -58,22 +58,22 @@ show-author: false
 animation: false
 
 defaults:
-    - scope:
-          path: ""
-          layout: "post"
-      values:
-          hidden: false
+  - scope:
+      path: ""
+      layout: "post"
+    values:
+      hidden: false
 
 plugins:
-    - jekyll-seo-tag
-    - jekyll-gist
-    - jekyll-feed
-    - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-sitemap
 
 compress_html:
-    ignore:
-        envs:
-            - development
-            - stage
+  ignore:
+    envs:
+      - development
+      - stage
 
 exclude: ["README.md", "Gemfile", "Gemfile.lock", "vendor"]
