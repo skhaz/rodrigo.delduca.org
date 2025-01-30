@@ -25,5 +25,5 @@ externalLink: false
 
 ### Links:
 
--   Site [https://trial.carimbo.cloud](https://trial.carimbo.cloud).
--   Source code [https://github.com/carimbolabs/carimbo](https://github.com/carimbolabs/carimbo).
+-   Site [https://carimbo.run](https://carimbo.run).
+-   Source code [https://github.com/willtobyte/carimbo](https://github.com/willtobyte/carimbo).
