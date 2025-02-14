@@ -8,8 +8,11 @@ picture: assets/images/avatar.png
 dark-theme: false
 
 resume: true
-resume-external: true
-resume-url: https://gcs.skhaz.dev/resume.pdf
+resume-external: false
+resume-url: resume
+
+# resume-external: true
+# resume-url: https://gcs.skhaz.dev/resume.pdf
 
 blog: true
 blog-url: https://nullonerror.org/
